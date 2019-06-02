@@ -4,6 +4,14 @@ public class Pais {
     private String country_id;
     private String country;
 
+    public Pais(String country_id, String country) {
+        this.country_id = country_id;
+        this.country = country;
+    }
+
+    public Pais() {
+    }
+
     public String getCountry_id() {
         return country_id;
     }
@@ -20,8 +28,7 @@ public class Pais {
         this.country = country;
     }
 
-    public String toString()
-    {
+    public String toString() {
         return "Jenis";
     }
 }
