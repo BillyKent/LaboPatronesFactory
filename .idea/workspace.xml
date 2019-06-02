@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f3d2818-80f0-435d-95b7-3a3028cf6319" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_servlet_jstl_1_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
@@ -16,6 +17,13 @@
       <change beforePath="$PROJECT_DIR$/src/modelos/Pais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelos/Pais.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factories/FactoryCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factories/FactoryCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factories/FactoryPais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factories/FactoryPais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factories/impl/FactoryClienteImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factories/impl/FactoryClienteImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factories/impl/FactoryPaisImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factories/impl/FactoryPaisImpl.java" afterDir="false" />
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,17 +38,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+        <entry file="file://$PROJECT_DIR$/src/factories/FactoryPais.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="289">
               <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+=======
+            <state relative-caret-position="90">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/modelos/Pais.java">
+        <entry file="file://$PROJECT_DIR$/src/factories/impl/FactoryClienteImpl.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="187">
               <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding>
@@ -52,16 +66,33 @@
                 <element signature="e#325#326#0" expanded="true" />
                 <element signature="e#371#372#0" expanded="true" />
                 <element signature="e#409#410#0" expanded="true" />
+=======
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/controller/IndexServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="137">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/src/services/PaisService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,10 +101,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factories/impl/FactoryClienteImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/services/ClienteService.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/services/impl/PaisServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="102">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
+=======
+            <state relative-caret-position="180">
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+              </folding>
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/impl/ClienteServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="68">
+              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+=======
+            <state relative-caret-position="165">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+              </folding>
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
             </state>
           </provider>
         </entry>
@@ -81,8 +151,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/factories/impl/FactoryPaisImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+<<<<<<< HEAD
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+=======
+            <state relative-caret-position="150">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+              </folding>
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
             </state>
           </provider>
         </entry>
@@ -90,17 +170,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/factories/FactoryCliente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sql/consultasql.sql">
-          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="17">
               <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+=======
+            <state relative-caret-position="90">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
             </state>
           </provider>
         </entry>
@@ -117,8 +193,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/accessJDBC/AccesoJDBC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="100" selection-start-line="16" selection-start-column="100" selection-end-line="16" selection-end-column="100" />
+            <state relative-caret-position="150">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,19 +220,26 @@
       <list>
         <option value="$PROJECT_DIR$/sql/consultasql.sql" />
         <option value="$PROJECT_DIR$/src/factories/factoryCliente.java" />
-        <option value="$PROJECT_DIR$/src/factories/FactoryCliente.java" />
         <option value="$PROJECT_DIR$/src/factories/factoryPais.java" />
-        <option value="$PROJECT_DIR$/src/factories/impl/FactoryPaisImpl.java" />
-        <option value="$PROJECT_DIR$/src/factories/impl/FactoryClienteImpl.java" />
-        <option value="$PROJECT_DIR$/src/factories/FactoryPais.java" />
         <option value="$PROJECT_DIR$/src/modelos/Cliente.java" />
         <option value="$PROJECT_DIR$/src/accessJDBC/AccesoJDBC.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/controller/Servlet.java" />
         <option value="$PROJECT_DIR$/src/modelos/Pais.java" />
         <option value="$PROJECT_DIR$/web/select_paises.jsp" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/src/controller/IndexServlet.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+=======
+        <option value="$PROJECT_DIR$/src/factories/FactoryCliente.java" />
+        <option value="$PROJECT_DIR$/src/factories/FactoryPais.java" />
+        <option value="$PROJECT_DIR$/src/factories/impl/FactoryPaisImpl.java" />
+        <option value="$PROJECT_DIR$/src/factories/impl/FactoryClienteImpl.java" />
+        <option value="$PROJECT_DIR$/src/services/ClienteService.java" />
+        <option value="$PROJECT_DIR$/src/services/impl/ClienteServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/services/PaisService.java" />
+        <option value="$PROJECT_DIR$/src/services/impl/PaisServiceImpl.java" />
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
       </list>
     </option>
   </component>
@@ -210,8 +293,26 @@
               <item name="modelos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="LaboFactory" type="b2602c69:ProjectViewProjectNode" />
               <item name="LaboFactory" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="Factory-02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Factory-02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Factory-02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Factory-02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Factory-02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Factory-02" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -228,19 +329,26 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+=======
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+<<<<<<< HEAD
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+=======
+    <property name="nodejs_package_manager_path" value="npm" />
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -477,12 +585,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559492565523</updated>
+<<<<<<< HEAD
       <workItem from="1559492570346" duration="2725000" />
       <workItem from="1559496082693" duration="3613000" />
+=======
+      <workItem from="1559492570346" duration="3775000" />
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="6338000" />
   </component>
   <component name="TodoView">
@@ -493,6 +606,9 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+=======
+    <option name="totallyTimeSpent" value="3775000" />
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -571,6 +687,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/factories/FactoryPais.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -579,6 +696,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/modelos/Cliente.java">
+=======
+    <entry file="file://$PROJECT_DIR$/sql/consultasql.sql">
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
@@ -610,6 +730,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/factories/impl/FactoryPaisImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -635,6 +756,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="100" selection-start-line="16" selection-start-column="100" selection-end-line="16" selection-end-column="100" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/modelos/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -660,6 +787,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/select_paises.jsp">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="153">
           <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
@@ -676,8 +804,98 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+=======
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factories/FactoryPais.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factories/impl/FactoryPaisImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factories/impl/FactoryClienteImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factories/FactoryCliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/PaisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/ClienteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/impl/ClienteServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/impl/PaisServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+>>>>>>> 4b098332fedec9b7c4acdbdfbd3e251d952990c9
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
           </folding>
         </state>
       </provider>
