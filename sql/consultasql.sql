@@ -1,0 +1,2 @@
+
+select co.country,e.nombre,e.apellido,e.nombre_ciudad from sakila.country co inner join  (select ci.country_id, ci.city_id,ci.city as nombre_ciudad,d.nombre,d.apellido  from sakila.city ci inner join  (select ad.city_id , ad.address,cu.first_name as nombre,cu.last_name as apellido from sakila.address ad inner join sakila.customer  cu on ad.address_id=cu.address_id) d on d.city_id = ci.city_id) e on e.country_id=co.country_id where co.country='Peru';
