@@ -1,10 +1,11 @@
 package modelos;
 
 public class Pais {
-    private String country_id;
+
+    private Integer country_id;
     private String country;
 
-    public Pais(String country_id, String country) {
+    public Pais(Integer country_id, String country) {
         this.country_id = country_id;
         this.country = country;
     }
@@ -12,11 +13,11 @@ public class Pais {
     public Pais() {
     }
 
-    public String getCountry_id() {
+    public Integer getCountry_id() {
         return country_id;
     }
 
-    public void setCountry_id(String country_id) {
+    public void setCountry_id(Integer country_id) {
         this.country_id = country_id;
     }
 
@@ -28,7 +29,11 @@ public class Pais {
         this.country = country;
     }
 
+    @Override
     public String toString() {
-        return "Jenis";
+        return "Pais{" +
+                "country_id=" + country_id +
+                ", country='" + country + '\'' +
+                '}';
     }
 }

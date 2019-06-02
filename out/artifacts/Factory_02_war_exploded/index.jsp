@@ -14,6 +14,8 @@
 </head>
 <body>
 
+<%=request.getAttribute("paises")%>
+
 <select name="listapaises">
     <c:forEach items="${paises}" var="pais">
         <option value="${pais.country_id}">${pais.country}</option>
